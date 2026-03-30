@@ -15,7 +15,7 @@ cover:
 Vous avez un projet de **construction**, de **rénovation** ou d'**aménagement** ? Décrivez-nous vos besoins et recevez une estimation personnalisée sans engagement.
 
 <div class="devis-form-container">
-<form action="https://formspree.io/f/xplaceholder" method="POST" class="devis-form">
+<form action="https://formspree.io/f/xqegqqnj" method="POST" class="devis-form">
 
 <div class="form-group">
   <label for="nom">Nom complet *</label>
