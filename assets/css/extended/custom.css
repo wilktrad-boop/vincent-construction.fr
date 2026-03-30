@@ -4,6 +4,8 @@
 
 /* --- Custom Properties --- */
 :root {
+    --main-width: 1080px;
+    --gap: 24px;
     --vc-green: #1b5e20;
     --vc-green-light: #4caf50;
     --vc-green-pale: #e8f5e9;
@@ -763,10 +765,9 @@ body {
     }
 }
 
-@media (min-width: 769px) {
-    .main {
-        max-width: 780px;
-    }
+/* --- Desktop wider layout --- */
+.post-single .post-content {
+    max-width: 860px;
 }
 
 /* --- Animations --- */
