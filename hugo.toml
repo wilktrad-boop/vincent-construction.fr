@@ -75,6 +75,11 @@ buildExpired = false
     url = "/galerie-de-nos-chantiers/"
     weight = 40
   [[menu.main]]
+    identifier = "devis"
+    name = "Devis Gratuit"
+    url = "/devis-gratuit/"
+    weight = 45
+  [[menu.main]]
     identifier = "a-propos"
     name = "A propos"
     url = "/a-propos/"
