@@ -1,0 +1,103 @@
+baseURL = "https://vincent-construction.fr/"
+locale = "fr"
+defaultContentLanguage = "fr"
+title = "Vincent Construction - Conseils Travaux & Rénovation"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  description = "Blog de conseils pratiques pour vos travaux de construction, rénovation et aménagement maison. Guides techniques, astuces et retours d'expérience."
+  author = "Vincent Construction"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+  DateFormat = "2 January 2006"
+
+  [params.homeInfoParams]
+    Title = "Vincent Construction"
+    Content = "Conseils pratiques et guides techniques pour vos projets de construction, rénovation et aménagement. Des réponses claires pour réussir vos travaux."
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:contact@vincent-construction.fr"
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  [params.assets]
+    favicon = "/favicon.ico"
+
+  [params.label]
+    text = "Vincent Construction"
+
+  [params.profileMode]
+    enabled = false
+
+[menu]
+  [[menu.main]]
+    identifier = "cat-renovation"
+    name = "Rénovation"
+    url = "/categories/rénovation/"
+    weight = 10
+  [[menu.main]]
+    identifier = "cat-construction"
+    name = "Construction"
+    url = "/categories/construction/"
+    weight = 20
+  [[menu.main]]
+    identifier = "cat-maison"
+    name = "Maison"
+    url = "/categories/maison/"
+    weight = 30
+  [[menu.main]]
+    identifier = "galerie"
+    name = "Nos Chantiers"
+    url = "/galerie-de-nos-chantiers/"
+    weight = 40
+  [[menu.main]]
+    identifier = "a-propos"
+    name = "A propos"
+    url = "/a-propos/"
+    weight = 50
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[permalinks]
+  posts = "/:slug/"
