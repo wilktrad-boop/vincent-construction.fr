@@ -1,0 +1,29 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}
+
+{{- /* Categories Section */ -}}
+{{ $categories := site.Taxonomies.categories }}
+{{ if $categories }}
+<div class="home-categories">
+    <h2 class="home-categories-title">Parcourir par catégorie</h2>
+    <div class="home-categories-grid">
+        {{ range $name, $taxonomy := $categories }}
+        <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}/" class="home-category-card">
+            <span class="home-category-name">{{ $name | title }}</span>
+            <span class="home-category-count">{{ len $taxonomy }} {{ if gt (len $taxonomy) 1 }}articles{{ else }}article{{ end }}</span>
+        </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

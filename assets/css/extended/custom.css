@@ -865,6 +865,71 @@ body {
     color: #6cb4ee;
 }
 
+/* --- Home Categories --- */
+.home-categories {
+    margin-bottom: 2.5rem;
+}
+
+.home-categories-title {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: var(--vc-text);
+    margin-bottom: 1.25rem;
+    letter-spacing: -0.01em;
+}
+
+.home-categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.home-category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 1rem;
+    background: var(--vc-bg-card);
+    border: 1.5px solid var(--vc-border);
+    border-radius: var(--vc-radius);
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: var(--vc-shadow-sm);
+    text-align: center;
+}
+
+.home-category-card:hover {
+    border-color: var(--vc-green-muted);
+    transform: translateY(-4px);
+    box-shadow: var(--vc-shadow-lg);
+    background: var(--vc-green-pale);
+}
+
+.home-category-name {
+    font-family: var(--font-heading);
+    font-size: 1.2rem;
+    color: var(--vc-green);
+    margin-bottom: 0.35rem;
+}
+
+.home-category-count {
+    font-size: 0.82rem;
+    color: var(--vc-text-muted);
+    font-weight: 500;
+}
+
+.dark .home-category-card {
+    background: var(--vc-bg-card);
+    border-color: #374151;
+}
+
+.dark .home-category-card:hover {
+    background: rgba(76, 175, 80, 0.1);
+    border-color: #4b5563;
+}
+
 /* --- Devis Form --- */
 .devis-form-container {
     background: var(--vc-bg-card);
