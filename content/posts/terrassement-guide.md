@@ -92,3 +92,5 @@ Avant de creuser, faites une **DICT** (Déclaration d'Intention de Commencement 
 - Visitez un chantier en cours si possible
 - Vérifiez les avis et références
 - Assurez-vous que l'évacuation des déblais est incluse dans le devis
+
+Une fois le terrassement terminé, pensez à l'aménagement paysager de votre terrain. Un [paysagiste professionnel](https://www.agencelavernepaysagistes.fr/) pourra vous accompagner pour la création d'espaces verts, l'engazonnement et les plantations autour de votre construction neuve.

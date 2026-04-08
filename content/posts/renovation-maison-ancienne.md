@@ -89,6 +89,6 @@ Les murs anciens en pierre ou en terre sont perméables à la vapeur d'eau. Les 
 Prévoyez toujours une **marge de 15 à 20%** pour les imprévus. Dans l'ancien, les surprises sont la norme : planchers pourris cachés sous la moquette, murs non d'aplomb, canalisations encastrées non prévues...
 
 ### Tout faire soi-même
-Le bricolage peut réduire les coûts sur certains postes (peinture, pose de sols), mais les travaux techniques (électricité, plomberie, structure) doivent être confiés à des professionnels qualifiés. C'est une question de sécurité et d'assurance.
+Le bricolage peut réduire les coûts sur certains postes (peinture, pose de sols), mais les travaux techniques (électricité, plomberie, structure) doivent être confiés à des professionnels qualifiés. C'est une question de sécurité et d'assurance. Pour les travaux de rénovation variés, faire appel à une [entreprise multi-services](https://www.mil-et-un-services.fr/) permet de centraliser les corps de métier et de simplifier la coordination du chantier.
 
 > Vous avez un projet de rénovation ? [Demandez un devis gratuit](/devis-gratuit/) pour une estimation personnalisée.

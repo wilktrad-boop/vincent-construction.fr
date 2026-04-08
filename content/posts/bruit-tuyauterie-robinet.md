@@ -78,7 +78,7 @@ Une pression supérieure à 3 bars crée des turbulences dans les canalisations 
 Un manomètre de plomberie (10-15 euros) se visse sur un robinet extérieur ou sur un raccord de machine à laver. La pression idéale se situe entre **1,5 et 3 bars**.
 
 ### Solution
-Installez un **réducteur de pression** réglable sur l'arrivée d'eau principale. Réglez-le entre 2,5 et 3 bars. Au-delà de la suppression des bruits, vous prolongerez la durée de vie de toutes vos robinetteries et joints.
+Installez un **réducteur de pression** réglable sur l'arrivée d'eau principale. Réglez-le entre 2,5 et 3 bars. Au-delà de la suppression des bruits, vous prolongerez la durée de vie de toutes vos robinetteries et joints. Si votre eau est très calcaire, le tartre qui se forme dans les canalisations amplifie les bruits et réduit le débit : un [adoucisseur d'eau](https://adoucisseur-france.eu/) peut résoudre le problème à la source.
 
 ## Quand appeler un plombier ?
 
