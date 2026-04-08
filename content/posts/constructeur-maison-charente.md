@@ -9,7 +9,7 @@ summary: "Choisir un constructeur de maison en Charente demande de la méthode. 
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/images/terrassement.webp"
+  image: "/images/constructeur-maison.webp"
   alt: "Construction de maison en Charente"
 ---
 

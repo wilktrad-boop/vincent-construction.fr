@@ -9,7 +9,7 @@ summary: "Une fenêtre dans la douche italienne, c'est courant en rénovation. V
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/images/wc-lave-main.webp"
+  image: "/images/fenetre-douche.webp"
   alt: "Douche italienne avec fenêtre"
 ---
 

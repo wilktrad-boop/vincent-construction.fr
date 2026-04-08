@@ -9,7 +9,7 @@ summary: "Le sabot métallique n'est pas la seule option pour fixer une solive. 
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/images/double-montant-placo.webp"
+  image: "/images/fixation-solive.webp"
   alt: "Fixation de solive en bois"
 ---
 

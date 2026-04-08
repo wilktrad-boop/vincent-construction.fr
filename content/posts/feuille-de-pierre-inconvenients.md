@@ -9,8 +9,8 @@ summary: "La feuille de pierre est un revêtement fin et élégant, mais elle pr
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/images/bardage-fibrociment.webp"
-  alt: "Revêtement mural en pierre"
+  image: "/images/feuille-de-pierre.webp"
+  alt: "Feuille de pierre naturelle"
 ---
 
 ## Qu'est-ce que la feuille de pierre ?

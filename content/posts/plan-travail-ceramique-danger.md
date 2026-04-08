@@ -9,8 +9,8 @@ summary: "Le plan de travail céramique a la réputation d'être fragile. Certai
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/images/separer-chambre.webp"
-  alt: "Plan de travail cuisine"
+  image: "/images/plan-travail-ceramique.webp"
+  alt: "Plan de travail céramique"
 ---
 
 ## Pourquoi parle-t-on de danger ?

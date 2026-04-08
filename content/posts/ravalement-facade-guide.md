@@ -9,7 +9,7 @@ summary: "Le ravalement de façade est obligatoire tous les 10 ans dans certaine
 ShowToc: true
 TocOpen: true
 cover:
-  image: "/images/bardage-fibrociment.webp"
+  image: "/images/ravalement-facade.webp"
   alt: "Ravalement de façade"
 ---
 
